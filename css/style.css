@@ -26,6 +26,7 @@ section.about {
 
 section.portfolio {
 	min-height: 600px;
+	background-color: #eee; 
 }
 
 section.portfolio img {
