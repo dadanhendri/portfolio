@@ -1,3 +1,7 @@
+body {
+	position: relative;
+}
+
 .jumbotron {
 	min-height: 500px;
 	background-image: url('../img/ph.jpg');
@@ -34,7 +38,21 @@ section.portfolio img {
 }
 
 section.contact {
-	min-height: 600px;
+	min-height: 800px;
+}
+
+footer {
+	min-height: 100px;
+	background-color: #333;
+	padding-top: 30px;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+footer i {
+	color: salmon;
 }
 
 
